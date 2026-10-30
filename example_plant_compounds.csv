@@ -1,0 +1,6 @@
+name,smiles
+Quercetin,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12
+Resveratrol,O=C1OC(=C(C=C1)O)C2=CC=C(C=C2)O
+Curcumin,COC1=CC(=CC(=C1O)OC)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC
+Kaempferol,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12
+Caffeic_acid,O=C(O)/C=C/C1=CC=C(O)C(O)=C1

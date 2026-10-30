@@ -1,0 +1,11 @@
+name,smiles,target,label
+demo_active_1,O=c1cc(O)c2ccccc2o1,human_tyrosinase,1
+demo_active_2,O=c1[nH]c(=O)[nH]c(=O)1,human_tyrosinase,1
+demo_decoy_1,CCOCCO,human_tyrosinase,0
+demo_decoy_2,CCCCCCCC,human_tyrosinase,0
+demo_active_3,CC(=O)Oc1ccccc1C(=O)O,mushroom_tyrosinase,1
+demo_decoy_3,CCOCCO,mushroom_tyrosinase,0
+demo_active_4,O=C(O)c1ccccc1O,collagenase,1
+demo_decoy_4,CCCCCCCC,collagenase,0
+demo_active_5,CC(C)C1=CC=C(C=C1)O,elastase,1
+demo_decoy_5,CCOCCO,elastase,0

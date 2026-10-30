@@ -1,0 +1,11 @@
+weights:
+  activity: 0.60
+  topical: 0.40
+
+topical:
+  # These are screening heuristics, not validated skin-permeation cutoffs.
+  mw: {ideal_max: 500, hard_max: 700}
+  logp: {ideal_min: 1.0, ideal_max: 4.0, hard_min: -1.0, hard_max: 7.0}
+  tpsa: {ideal_min: 20, ideal_max: 90, hard_min: 5, hard_max: 150}
+  hbd: {ideal_max: 5, hard_max: 10}
+  hba: {ideal_max: 10, hard_max: 20}
