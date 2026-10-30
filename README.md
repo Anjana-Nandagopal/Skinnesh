@@ -89,7 +89,7 @@ Validation is independent of the reference-active set and uses a scaffold-aware 
 
 ## Interpretation
 
-A high Skinnesh score is a computational prioritisation signal. It does not prove enzyme inhibition, skin penetration, safety, efficacy or clinical/cosmetic benefit. Final biological interpretation must be reviewed by the participant.
+A high Skinnesh score is a computational prioritisation signal. It does not prove enzyme inhibition, skin penetration, safety, efficacy or clinical/cosmetic benefit. Final biological interpretation must be reviewed by the scientist.
 
 ## Final deliverables
 
